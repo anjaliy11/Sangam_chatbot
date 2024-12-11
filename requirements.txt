@@ -109,6 +109,7 @@ MarkupSafe==2.1.5
 marshmallow==3.21.2
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
+maturin==1.7.8
 mdurl==0.1.2
 mistune==3.0.2
 ml-dtypes==0.4.1
